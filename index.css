@@ -1,0 +1,20 @@
+h1 {
+  font-family: Arial;
+  text-align: center;
+
+}
+#welcome {
+  font-family: arial;
+  border-radius: 5px;
+  background-color: #EFEFEF; /* neutral color */
+  padding: 20px;
+  color: #A9A9A9; /* carbon color */
+}
+#headliners {
+  font-family: Arial;
+  border-radius: 5px;
+  background-color: #CAEBF2; /* sky color */
+  padding: 2px;
+  color: #A9A9A9;
+  text-align: center;
+}
